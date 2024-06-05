@@ -1,0 +1,28 @@
+main{
+  padding-top: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+main h1{
+  color: #94360b;
+  margin-bottom: 2vh;
+}
+.flex{
+  display: flex;
+  font-size: larger;
+  gap: 1vw;
+}
+.flex input{
+  padding: 5px;
+}
+button{
+  padding: 1vh;
+  color: white;
+  background-color: #f5873d;
+  border-radius: 10px;
+  border: none;
+}
+button:hover{
+  background-color: #c36a2f;
+}
